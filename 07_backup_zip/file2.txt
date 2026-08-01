@@ -1,0 +1,4 @@
+Machine learning is a branch of AI.
+It enables computers to learn from data.
+Popular Python libraries include
+NumPy, Pandas, TensorFlow, and Scikit-learn.
