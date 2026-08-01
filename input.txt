@@ -1,0 +1,50 @@
+Python
+Artificial Intelligence
+Machine Learning
+Data Science
+Java
+C Programming
+Operating Systems
+Database Management System
+Computer Networks
+Software Engineering
+Cloud Computing
+Cyber Security
+Web Development
+Mobile Application Development
+Deep Learning
+Natural Language Processing
+Computer Vision
+Data Analytics
+Blockchain
+Internet of Things
+Algorithms
+Data Structures
+Compiler Design
+Digital Electronics
+Linux
+Windows
+MacOS
+HTML
+CSS
+JavaScript
+React
+NodeJS
+MongoDB
+SQL
+MySQL
+PostgreSQL
+Git
+GitHub
+VS Code
+TensorFlow
+Keras
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+OpenCV
+Jupyter Notebook
+Google Colab
+Docker
+Kubernetes

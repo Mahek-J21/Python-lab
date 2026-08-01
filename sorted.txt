@@ -1,0 +1,50 @@
+Algorithms
+Artificial Intelligence
+Blockchain
+C Programming
+CSS
+Cloud Computing
+Compiler Design
+Computer Networks
+Computer Vision
+Cyber Security
+Data Analytics
+Data Science
+Data Structures
+Database Management System
+Deep Learning
+Digital Electronics
+Docker
+Git
+GitHub
+Google Colab
+HTML
+Internet of Things
+Java
+JavaScript
+Jupyter Notebook
+Keras
+Kubernetes
+Linux
+MacOS
+Machine Learning
+Matplotlib
+Mobile Application Development
+MongoDB
+MySQL
+Natural Language Processing
+NodeJS
+NumPy
+OpenCV
+Operating Systems
+Pandas
+PostgreSQL
+Python
+React
+SQL
+Scikit-learn
+Software Engineering
+TensorFlow
+VS Code
+Web Development
+Windows
